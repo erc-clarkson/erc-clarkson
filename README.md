@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-All of my projects are available at [erc-clarkson.github.io](erc-clarkson.github.io)
+All of my projects are available at [Emily Clarkson](https://erc-clarkson.github.io/)
 
 Get in touch 💬 **erclarkson06@gmail.com**
 
