@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Emily 👋</h1>
-<h3 align="center">Retraining to be a Full-Stack Developer</h3>
+
+<h4 align="center">Currently studing software development at IO Academy</h4>
 
 <h3 align="left">Connect with me:</h3>
 
