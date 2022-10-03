@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Emily  👋
 
-<!--
-**erc-clarkson/erc-clarkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github Profile 
 
-Here are some ideas to get you started:
+I am currently studying software development at IO Academy, retraining to be a Full-Stack Developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+
+:incoming_envelope: [email](erclarkson06@gmail.com)
+
+:notebook: [Portfolio](https://erc-clarkson.github.io/)
+
+:iphone: [LinkedIn](https://www.linkedin.com/in/erc-clarkson/) 
