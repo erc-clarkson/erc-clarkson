@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Emily 👋</h1>
 
-<h4 align="center">Currently studying software development at IO Academy</h4>
+<h4 align="center">IO Academy Graduate OCtober 2022</h4>
 
 <h3 align="left">Connect with me:</h3>
 
