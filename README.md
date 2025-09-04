@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Emily 👋</h1>
 
-<h4 align="center">IO Academy Graduate October 2022</h4>
+<h4 align="center">Front-end Developer</h4>
 
 <h3 align="left">Connect with me:</h3>
 
 All of my projects are available at [Emily Clarkson](https://erc-clarkson.github.io/)
 
 Get in touch 💬 **erclarkson06@gmail.com**
-
+<p>IO Academy Graduate October 2022</p>
 <p align="left">
 <a href="https://linkedin.com/in/erc-clarkson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erc-clarkson" height="30" width="40" /></a>
 </p>
