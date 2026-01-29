@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Emily 👋</h1>
 
-<h4 align="center">Front-end Developer</h4>
+<h4 align="center">Full stack Developer</h4>
 
 <h3 align="left">Connect with me:</h3>
 
