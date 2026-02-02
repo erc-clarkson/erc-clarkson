@@ -1,7 +1,7 @@
 <h1>Hello, I'm Emily 👋</h1>
 <h4 >Full Stack Developer</h4>
 
-## 🛠️ Languages & Tools
+
 ### 🎨 UI / UX & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
